@@ -1,5 +1,3 @@
-# Write your solution to exercise 3 here
-
 import os
 
 def main():
